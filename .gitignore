@@ -38,3 +38,6 @@ ENV/
 *.swp
 *.swo
 
+# Generated website and local source archive
+_site/
+Hungarian-Letter-Studio.zip
